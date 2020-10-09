@@ -1,0 +1,2 @@
+# DirectXProgram
+DirectXで学んだソースコードを書き起こす用のリポジトリ
